@@ -8,6 +8,8 @@
   },
   "author": "Tiago Toledo",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^5.1.0"
-  }
+  },
+  "license": "ISC"
 }
